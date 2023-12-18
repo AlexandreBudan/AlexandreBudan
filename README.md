@@ -45,8 +45,4 @@
 <br/>
 
 ### GitHub Info
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreBudan\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrebudan&show_icons=true&locale=en" alt="alexandrebudan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrebudan&" alt="alexandrebudan" /></p>
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrebudan\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
