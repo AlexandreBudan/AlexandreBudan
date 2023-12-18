@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Ynov](https://www.ynov.com/)
 
-- 🌱 How to access to my Curriculum Vitae -> 
+- 🌱 How to access to my Curriculum Vitae -> [Télécharger le fichier PDF](./assets/CV%20Alexandre.pdf)
 
 - 📫 How to reach me **alexandrebudan@outlook.com**
 
