@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Golang, Symfony**
 
-- 📫 How to reach me **alexandre.budan@ynov.com**
+- 📫 How to reach me **alexandrebudan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
