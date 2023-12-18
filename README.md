@@ -51,4 +51,4 @@
 
 ### GitHub Info
 
-[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrebudan)]
+![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrebudan)
