@@ -46,10 +46,10 @@
 
 ### Mains Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreBudan&repo=Forum)](https://github.com/AlexandreBudan/Forum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreBudan&repo=GAVE)](https://github.com/AlexandreBudan/GAVE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexBudan&repo=Forum)](https://github.com/AlexandreBudan/Forum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexBudan&repo=GAVE)](https://github.com/AlexandreBudan/GAVE)
 
 ### GitHub Info
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreBudan)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBudan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreBudan)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexBudan)](https://github.com/anuraghazra/github-readme-stats)
