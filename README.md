@@ -45,4 +45,4 @@
 <br/>
 
 ### GitHub Info
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex)](https://github.com/anuraghazra/github-readme-stats)
