@@ -46,10 +46,8 @@
 
 ### Mains Repositories
 
-<p>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex&repo=Forum)](https://github.com/Alex/Forum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex&repo=GAVE)](https://github.com/Alex/GAVE)
-</p>
 
 ### GitHub Info
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex)](https://github.com/anuraghazra/github-readme-stats)
