@@ -43,13 +43,3 @@
 </p>
 
 <br/>
-
-### Mains Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreBudan&repo=PrendsTaGo)](https://github.com/AlexandreBudan/PrendsTaGo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreBudan&repo=Forum)](https://github.com/AlexandreBudan/Forum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreBudan&repo=GAVE)](https://github.com/AlexandreBudan/GAVE)
-
-### GitHub Info
-
-![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrebudan)
