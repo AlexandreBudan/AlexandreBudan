@@ -22,7 +22,7 @@ I am a Full-Stack Software Engineering student based in the Lyon area, bridging 
 - 💼 **Currently working on:** Full-Stack Apprentice at **UCLy (Université Catholique de Lyon) - IT Department (DSI)**, while building side projects at the intersection of software development, quantitative finance, and portfolio optimization.
 - 🌱 **Currently studying:** Completing my Master 2 in Software Engineering at Ynov (RNCP Level 7 degree), alongside advanced mathematics (calculus, linear algebra, probability) in preparation for a specialized Master's program in FinTech and Quantitative Finance.
 - 💡 **Interests:** Quantitative Finance, Algorithmic Trading, Scalable Backend Architecture, and DevOps.
-- 📄 **Resume:** [Download my CV here](./qssets/*.pdf)
+- 📄 **Resume:** [Download my CV here](./qssets/cv.pdf)
 
 ## 🛠️ Tech Stack
 
