@@ -1,44 +1,60 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
+<h1 align="center">Hi 👋, I'm Alexandre Budan</h1>
+<h3 align="center">Full-Stack Software Engineer & FinTech Enthusiast</h3>
+
 <p align="center">
-  <a href="#" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/alexandre-budan" target="_blank">Linkedin</a>
-</p><br/>
-<h3 align="center">Computer science student, passionate about the Back-End, software and the world of AI.</h3>
-
-- 🔭 I’m currently working at [Ynov](https://www.ynov.com/)
-
-- 🌱 How to access to my Curriculum Vitae -> [Télécharger le fichier PDF](./assets/CV%20Alexandre.pdf)
-
-- 📫 How to reach me **alexandrebudan@outlook.com**
-
-### Languages and Tools
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-
-</p>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <a href="LIEN_VERS_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-budan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alexandrebudan@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="left">
-<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-</p>
+---
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+## 👨‍💻 About Me
 
-<br/>
+I am a Full-Stack Software Engineering student based in the Lyon area, bridging the gap between robust technical backend architecture and elegant user experiences. 
+
+- 💼 **Currently working on:** Full-Stack Apprentice at **UCLy (Université Catholique de Lyon) - IT Department (DSI)**, while building side projects at the intersection of software development, quantitative finance, and portfolio optimization.
+- 🌱 **Currently studying:** Completing my Master 2 in Software Engineering at Ynov (RNCP Level 7 degree), alongside advanced mathematics (calculus, linear algebra, probability) in preparation for a specialized Master's program in FinTech and Quantitative Finance.
+- 💡 **Interests:** Quantitative Finance, Algorithmic Trading, Scalable Backend Architecture, and DevOps.
+- 📄 **Resume:** [Download my CV here](./qssets/*.pdf)
+
+## 🛠️ Tech Stack
+
+### Frontend & Design
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & Database
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### AI & LLM Tooling
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini Pro](https://img.shields.io/badge/Gemini%20Pro-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+### DevOps & Environment
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreBudan&show_icons=true&theme=radium&hide_border=true" alt="Alexandre's GitHub Stats" />
+</p>
